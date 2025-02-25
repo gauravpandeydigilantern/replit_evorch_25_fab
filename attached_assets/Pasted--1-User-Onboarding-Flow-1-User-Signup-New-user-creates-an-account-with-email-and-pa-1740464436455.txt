@@ -1,0 +1,123 @@
+## 1. User Onboarding Flow
+
+1. **User Signup**
+   - New user creates an account with email and password
+   - User completes basic profile information
+
+2. **Persona Selection**
+   - User selects their role persona (Sales, Marketing, or Operations)
+   - System presents a brief overview of how the platform is customized for their role
+   - User confirms selection and enters the persona-specific dashboard
+
+## 2. Persona Dashboard & Pipeline Navigation
+
+1. **Persona Dashboard**
+   - User lands on a role-specific dashboard showing key metrics relevant to their persona
+   - Dashboard displays three primary pipeline options (e.g., for Sales: Lead Scoring, Prospect Nurturing, Conversion Optimization)
+   - User can see at-a-glance KPIs for each pipeline
+
+2. **Pipeline Selection**
+   - User selects a specific pipeline (e.g., Lead Scoring)
+   - System transitions to the detailed pipeline dashboard
+   - Navigation breadcrumbs show current location (e.g., Sales > Lead Scoring)
+
+## 3. Pipeline Dashboard Navigation
+
+1. **Main Navigation Options**
+   - **Analytics Tab**: For data visualization and performance metrics
+   - **Agents Tab**: For accessing and configuring the AI multiagent system
+
+2. **Analytics Dashboard**
+   - User can view and interact with:
+     - Conversion rate predictions and historical trends
+     - Top lead scoring table with detailed lead information
+     - Activity heatmap showing real-time engagement
+     - Bottleneck insights highlighting funnel drop-off points
+     - Lead score distribution chart
+     - Attribution modeling dashboard
+     - Sales funnel analytics
+     - AI-powered future predictions
+
+3. **Agents Tab & Multiagent System**
+   - Interactive diagram shows relationships between six AI agents
+   - Each agent is represented visually with status indicators
+   - Hover states provide quick summaries of each agent's function
+   - User can click on any agent to access its dedicated dashboard
+
+## 4. Agent-Specific Dashboard Flow
+
+1. **Agent Dashboard Structure**
+   - **Agent Overview Panel**: Shows agent role, status, and performance
+   - **Metrics Visualization Panel**: Displays graphs, alerts, and historical trends
+   - **User Controls Panel**: Allows modification of agent rules and thresholds
+
+2. **Context-Based Decisions Agent**
+   - User can view the Lead Score History with timeline graph
+   - Side panel shows factors affecting score changes
+   - User can adjust score calculation rules
+   - Historical view shows how scores evolved over time
+
+3. **Situational Awareness Agent**
+   - Real-time notifications for lead behavior changes
+   - Interactive heatmap of recent lead interactions
+   - Quick-action buttons for follow-up responses
+   - Alert management system for prioritizing notifications
+
+4. **Autonomy Agent**
+   - Autonomy slider to set AI vs. human intervention levels
+   - Threshold configuration for different action types
+   - Decision log showing automated vs. manual actions
+   - Performance metrics comparing autonomous vs. manual outcomes
+
+5. **Multiagent Collaboration Agent**
+   - Visual collaboration map showing agent interactions
+   - Real-time agent communication log
+   - Collaboration rules editor
+   - Performance metrics on inter-agent efficiency
+
+6. **Multimodal Capabilities Agent**
+   - Data fusion panel showing insights from multiple sources
+   - Source toggle controls to influence lead scoring
+   - Performance metrics per data source
+   - Configuration panel for weighting different data types
+
+7. **Reasoning Abilities Agent**
+   - Interactive flowchart of AI decision logic
+   - Factor weightage visualization
+   - Dynamic reasoning adjustment controls
+   - Before/after comparison when changes are made
+
+## 5. Action & Modification Flows
+
+1. **Executing AI Actions**
+   - User initiates an AI action (e.g., rescore leads, send follow-up)
+   - System shows confirmation dialog with expected outcomes
+   - User confirms and system executes action
+   - Results are displayed with option to revert if needed
+
+2. **Modifying Agent Settings**
+   - User adjusts agent parameters or rules
+   - System previews potential impact of changes
+   - User confirms changes
+   - System applies and shows before/after comparison
+
+3. **Navigation Between Features**
+   - Persistent breadcrumb navigation
+   - Quick access sidebar for frequent destinations
+   - Back button with state preservation
+   - Search function for finding specific features or data
+
+## 6. Data Visualization & Interaction Flow
+
+1. **Dashboard Interaction**
+   - Zoom/filter controls for all charts and visualizations
+   - Date range selectors for historical data
+   - Export options for reports and visualizations
+   - Save view configurations for quick access later
+
+2. **Lead Management Interaction**
+   - Click on leads in tables/charts to see detailed profiles
+   - Apply manual overrides to AI-generated scores
+   - Add notes or tags to specific leads
+   - Create manual follow-up tasks
+
